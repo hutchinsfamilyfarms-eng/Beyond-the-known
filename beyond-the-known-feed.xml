@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Beyond the Known</title>
+    <description>Real stories, forgotten history, unanswered questions.</description>
+    <language>en-us</language>
+    <itunes:author>Beyond the Known</itunes:author>
+    <author>Beyond the Known</author>
+    <itunes:category text="History" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>The Dancing Plague of 1518</title>
+      <description>Alex explores the dancing plague that seized Strasbourg in the summer of 1518, from one woman&#x27;s dance to the city&#x27;s failed remedies, and the theories and unanswered questions that remain.</description>
+      <pubDate>Fri, 30 Oct 2026 03:31:32 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1448184135041969/06c31dd6-4bb7-4672-8efd-2db77d33dc64/ep-1132f7b8-4a1f-4f9b-9b9a-12ec4b65a536.mp3" type="audio/mpeg" />
+      <itunes:duration>480</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">the-dancing-plague-of-1518-2026-10-30</guid>
+    </item>
+    <item>
+      <title>The Taos Hum — The Sound No One Can Explain</title>
+      <description>Alex explores the Taos Hum, a low drone reported by a small minority in Taos, New Mexico, and the 1993 investigation that found no matching source, from the theories it inspired to what experts still do not know.</description>
+      <pubDate>Fri, 30 Oct 2026 03:30:56 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1448184135041969/06c31dd6-4bb7-4672-8efd-2db77d33dc64/ep-3b7d7fd5-da5c-49c0-9374-31db3f5aa7ba.mp3" type="audio/mpeg" />
+      <itunes:duration>463</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">the-taos-hum-the-sound-no-one-can-explain-2026-10-30</guid>
+    </item>
+    <item>
+      <title>The Ancient Computer That Shouldn&#x27;t Exist</title>
+      <description>Alex explores the Antikythera mechanism, a bronze geared device recovered from a Greek shipwreck that tracked the Sun and Moon, predicted eclipses, and marked the Olympic Games, and why much of how it worked remains debated.</description>
+      <pubDate>Fri, 30 Oct 2026 03:30:34 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1448184135041969/06c31dd6-4bb7-4672-8efd-2db77d33dc64/ep-d84490af-5ef2-4c15-a1f0-aee45da5fca1.mp3" type="audio/mpeg" />
+      <itunes:duration>463</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">the-ancient-computer-that-shouldnt-exist-2026-10-30</guid>
+    </item>
+    <item>
+      <title>The Lost Colony of Roanoke</title>
+      <description>Alex traces the 1587 Roanoke colonists from John White&#x27;s delayed return and the carved word Croatoan to the theories of assimilation, relocation, and drought, and why their fate remains unproven.</description>
+      <pubDate>Fri, 30 Oct 2026 03:30:27 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1448184135041969/06c31dd6-4bb7-4672-8efd-2db77d33dc64/ep-ce0682bf-ad07-47c6-8731-914d24568363.mp3" type="audio/mpeg" />
+      <itunes:duration>464</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">the-lost-colony-of-roanoke-2026-10-30</guid>
+    </item>
+    <item>
+      <title>The Voynich Manuscript — The Book No One Can Read</title>
+      <description>Alex explores the Voynich manuscript, a fifteenth-century book in an undeciphered script, from its 1912 rediscovery to the theories about what it might be and why it still cannot be read.</description>
+      <pubDate>Fri, 30 Oct 2026 03:30:12 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1448184135041969/06c31dd6-4bb7-4672-8efd-2db77d33dc64/ep-9bf8fd11-a03c-46a5-a226-17f96de2b28c.mp3" type="audio/mpeg" />
+      <itunes:duration>468</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">the-voynich-manuscript-the-book-no-one-can-read-2026-10-30</guid>
+    </item>
+    <item>
+      <title>Episode 001: The Roman Mystery Nobody Has Solved</title>
+      <description>Alex explores the Roman dodecahedron, a 1700-year-old bronze object with twelve sides whose purpose is still unknown, from its discovery to the theories about what it was for.</description>
+      <pubDate>Fri, 30 Oct 2026 01:56:26 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1448184135041969/06c31dd6-4bb7-4672-8efd-2db77d33dc64/ep-98008134-b3cd-4a04-b70c-f7e9ace76323.mp3" type="audio/mpeg" />
+      <itunes:duration>441</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">episode-001-the-roman-mystery-nobody-has-solved-2026-10-30</guid>
+    </item>
+  </channel>
+</rss>
